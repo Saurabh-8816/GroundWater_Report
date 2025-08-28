@@ -6,8 +6,8 @@ A Power BI Dashboard built to analyze **groundwater levels** and **rainfall tren
 The project provides insights into rainfall distribution, well depth analysis, and district-wise groundwater availability from **2016–2020**.
 
 ## Database used
-<a href="https://github.com/Saurabh-8816/GroundWater_Report/blob/main/Chhattisgarh_Annual_Rainfall.xlsx>CG Annual Rainfall</a>
-<a href="https://github.com/Saurabh-8816/GroundWater_Report/blob/main/Depth_to_Water_Level_May_2020.xlsx> Depth to water level</a>
+<a href="https://github.com/Saurabh-8816/GroundWater_Report/blob/main/Chhattisgarh_Annual_Rainfall.xlsx">CG Annual Rainfall</a>
+<a href="https://github.com/Saurabh-8816/GroundWater_Report/blob/main/Depth_to_Water_Level_May_2020.xlsx"> Depth to water level</a>
 
 ##Dashboard Interaction
 <a href="https://github.com/Saurabh-8816/GroundWater_Report/blob/main/GroundWater_Report.png"> Groundwater Report</a>
